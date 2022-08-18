@@ -1,0 +1,34 @@
+body {
+  background-color: #faebd7;
+  font-family: "Josefin Sans", sans-serif;
+  text-align: center;
+}
+body header {
+  background-color: #5f9ea0;
+}
+body h1 {
+  font-size: 3rem;
+  color: #483d8b;
+}
+body h1:hover {
+  color: #008000;
+  font-style: italic;
+}
+body h4 {
+  font-size: 2rem;
+  color: #483d8b;
+}
+body h4:hover {
+  color: #008000;
+  font-style: italic;
+}
+body p {
+  padding: 20px;
+}
+body p:hover {
+  color: #008000;
+  font-style: italic;
+}
+body footer {
+  background-color: gray;
+}
